@@ -56,3 +56,5 @@ C:\Users\murrari\documents\visual studio 2015\Projects\RPMTest\RPMTest\bin\Entit
 C:\Users\murrari\documents\visual studio 2015\Projects\RPMTest\RPMTest\bin\EntityFramework.xml
 C:\Users\murrari\documents\visual studio 2015\Projects\RPMTest\RPMTest\bin\EntityFramework.SqlServer.xml
 C:\Users\murrari\documents\visual studio 2015\Projects\RPMTest\RPMTest\obj\Debug\RPMTest.csprojResolveAssemblyReference.cache
+C:\Users\murrari\Documents\Visual Studio 2015\Projects\RPMTest\RPMTest\bin\Swashbuckle.Core.dll
+C:\Users\murrari\Documents\Visual Studio 2015\Projects\RPMTest\RPMTest\bin\WebActivatorEx.dll
