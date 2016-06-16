@@ -51,4 +51,8 @@ c:\users\murrari\documents\visual studio 2015\Projects\RPMTest\RPMTest\bin\Syste
 c:\users\murrari\documents\visual studio 2015\Projects\RPMTest\RPMTest\bin\System.Web.Http.WebHost.xml
 c:\users\murrari\documents\visual studio 2015\Projects\RPMTest\RPMTest\obj\Debug\RPMTest.dll
 c:\users\murrari\documents\visual studio 2015\Projects\RPMTest\RPMTest\obj\Debug\RPMTest.pdb
-c:\users\murrari\documents\visual studio 2015\Projects\RPMTest\RPMTest\obj\Debug\RPMTest.csprojResolveAssemblyReference.cache
+C:\Users\murrari\documents\visual studio 2015\Projects\RPMTest\RPMTest\bin\EntityFramework.dll
+C:\Users\murrari\documents\visual studio 2015\Projects\RPMTest\RPMTest\bin\EntityFramework.SqlServer.dll
+C:\Users\murrari\documents\visual studio 2015\Projects\RPMTest\RPMTest\bin\EntityFramework.xml
+C:\Users\murrari\documents\visual studio 2015\Projects\RPMTest\RPMTest\bin\EntityFramework.SqlServer.xml
+C:\Users\murrari\documents\visual studio 2015\Projects\RPMTest\RPMTest\obj\Debug\RPMTest.csprojResolveAssemblyReference.cache
